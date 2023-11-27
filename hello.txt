@@ -1,3 +1,6 @@
 hello
 sec
 th
+=======
+hot`
+>>>>>>> hot-fix
